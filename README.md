@@ -2,7 +2,7 @@
 
 A web-based attendance management system designed to simplify and digitize the process of recording, managing, and monitoring student attendance using cloud-based technologies.
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live-Demo-success?style=for-the-badge)]()
+[![Live Demo](https://img.shields.io/badge/🚀_Live-Demo-success?style=for-the-badge)]( https://dinesh-cse-2007.github.io/Cloud-based-attendance-portal/)
 
 ## 📌 Project Overview
 
@@ -297,7 +297,7 @@ You can add an MIT License to the repository if you want others to reuse and mod
 
 **Your Name**
 
-* GitHub: `https://github.com/dinesh-cse-2007/Cloud-based-attendance-portal/`
+* GitHub: https://github.com/dinesh-cse-2007/Cloud-based-attendance-portal/
 * Project: **Cloud-Based Attendance Portal**
 
 ---
